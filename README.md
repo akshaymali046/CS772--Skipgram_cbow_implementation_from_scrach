@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of the Skip-gram and CBOW word embedding models from scratch. Skip-gram and CBOW are popular algorithms used for learning word representations in natural language processing.
 
-## Table of Contents
+## Contributors
 
 - Akshay Eknath Mali 
 - Mahesh Abnave
